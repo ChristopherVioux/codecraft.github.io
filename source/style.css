@@ -53,6 +53,10 @@ h1 {
     margin: 0;
 }
 
+.information p {
+    margin-bottom: 15px;
+}
+
 p {
     margin: 0;
     font-size: 30px;
