@@ -206,7 +206,11 @@ a {
 
     ul.show {
         display: block;
-    }    
+    }
+
+    .qrcode {
+        display: none;
+    }
 
     nav {
         display: flex;
