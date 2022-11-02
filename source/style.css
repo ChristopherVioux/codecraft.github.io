@@ -188,6 +188,10 @@ a {
 
 
 @media only screen and (max-width: 1000px) {
+    body {
+        width: 100%;
+    }
+
     .hamburger {
         display: block;
         border: 0;
@@ -206,6 +210,8 @@ a {
 
     h1 {
         width: 100%;
+        font-size: 55px;
+        margin-left: 10px;
     }
 
     ul.show {
