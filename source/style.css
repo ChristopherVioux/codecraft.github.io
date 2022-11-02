@@ -240,4 +240,13 @@ a {
     .mail {
         font-size: 25px;
     }
+
+    .main-text {
+        margin-left: 25px;
+        margin-bottom: 20px;
+    }
+
+    .socials {
+        display: block;
+    }
 }
