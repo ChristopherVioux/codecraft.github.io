@@ -204,6 +204,10 @@ a {
         margin: 0p;
     }
 
+    h1 {
+        width: 100%;
+    }
+
     ul.show {
         display: block;
     }
