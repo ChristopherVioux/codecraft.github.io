@@ -188,9 +188,6 @@ a {
 
 
 @media all and (max-width: 768px) {
-    body {
-        width: 100vh;
-    }
 
     .hamburger {
         display: block;
@@ -230,5 +227,9 @@ a {
 
     .logo {
         display: none;
+    }
+
+    .mail {
+        font-size: 30px;
     }
 }
