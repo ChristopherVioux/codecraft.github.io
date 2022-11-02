@@ -220,11 +220,11 @@ a {
     }
 
     h2 {
-        font-size: 35px;
+        font-size: 25px;
     }
 
-    .about {
-        font-size: 25px;
+    .information p {
+        font-size: 18px;
     }
 
     nav {
